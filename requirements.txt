@@ -1,0 +1,7 @@
+openai-agents
+fastapi
+uvicorn[standard]
+pydantic
+requests
+# Loads .env in API.py and mail.py
+python-dotenv
